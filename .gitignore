@@ -1,0 +1,10 @@
+node_modules/
+.env
+dist/
+backend/build/*.js
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/data/*.tmp
+mobile/.expo/
+.submission/
+*.log

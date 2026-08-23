@@ -1,0 +1,29 @@
+[
+  {
+    "id": "431dabcd-ad19-4c84-a6b6-f887b122a6dc",
+    "name": "Rohit raj",
+    "email": "abcdef@gmail.com",
+    "phone": "6764646767",
+    "passwordHash": "$2a$10$iyoNdXY3esq4nUDPGhLO.uboReRj/lvyLvMQbivPFF3VPEBhwp/Be",
+    "createdAt": "2026-08-14T08:40:00.159Z",
+    "updatedAt": "2026-08-14T08:40:00.159Z"
+  },
+  {
+    "id": "d168c666-a8ee-49ef-9061-acfcdb2d3f48",
+    "name": "Abilash",
+    "email": "abcd@gmail.com",
+    "phone": "9631235454",
+    "passwordHash": "$2a$10$vnzqvWK3fVpu4F2Lr41dFeQP5C5gXj5zGaxK.E4jixtNx/TkzF3VK",
+    "createdAt": "2026-08-13T21:43:48.271Z",
+    "updatedAt": "2026-08-13T21:43:48.271Z"
+  },
+  {
+    "id": "b14292f1-f3a2-4ae2-aa73-ca1e813bb7c9",
+    "name": "Ahmad Ismail",
+    "email": "abc@gmail.com",
+    "phone": "9631235958",
+    "passwordHash": "$2a$10$SuGOY9edBrpm0F3OkcO9WenMREn/0iY26zCYQLp94pQxCFe0n7R5.",
+    "createdAt": "2026-08-13T21:40:23.706Z",
+    "updatedAt": "2026-08-13T21:40:23.706Z"
+  }
+]

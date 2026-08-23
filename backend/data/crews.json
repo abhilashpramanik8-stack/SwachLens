@@ -1,0 +1,45 @@
+[
+  {
+    "id": "crew-alpha",
+    "name": "Crew Alpha",
+    "capability": "large",
+    "workers": 4,
+    "status": "available",
+    "latitude": 20.364657,
+    "longitude": 85.816969,
+    "specialties": [
+      "bulk_collection",
+      "construction_debris",
+      "enforcement_inspection"
+    ]
+  },
+  {
+    "id": "crew-beta",
+    "name": "Crew Beta",
+    "capability": "medium",
+    "workers": 3,
+    "status": "available",
+    "latitude": 20.355,
+    "longitude": 85.819,
+    "specialties": [
+      "recycling_sorting",
+      "organic_collection",
+      "bulk_collection"
+    ]
+  },
+  {
+    "id": "crew-gamma",
+    "name": "Crew Gamma",
+    "capability": "small",
+    "workers": 2,
+    "status": "available",
+    "latitude": 20.356,
+    "longitude": 85.817,
+    "specialties": [
+      "manual_cleanup",
+      "drain_clearing",
+      "e_waste_handling",
+      "hazardous_response"
+    ]
+  }
+]
