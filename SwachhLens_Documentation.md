@@ -46,6 +46,9 @@ At runtime, the system is organized as:
 7. The API persists issues, reports, users, crews, tokens, campus configuration, and audit logs in JSON files.
 8. The client refreshes the issue or dashboard view and shows the resulting status/ETA to the appropriate user.
 
+
+<img width="1536" height="1024" alt="00a7c9c7-8823-41ba-a86a-45e8b8b8a231" src="https://github.com/user-attachments/assets/981a08ec-5c0e-46d7-95dd-2d6cc289b8aa" />
+
 ## 3. Technology stack
 
 | Layer | Technology | Implementation use |
